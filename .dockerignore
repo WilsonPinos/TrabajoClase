@@ -1,0 +1,33 @@
+# Ignorar archivos no necesarios para Docker
+.git
+.gitignore
+README.md
+Dockerfile
+docker-compose.yml
+.dockerignore
+
+# Directorios de Maven
+target/classes
+target/test-classes
+target/maven-status
+target/generated-sources
+target/generated-test-sources
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Archivos temporales
+*.tmp
+*.temp
