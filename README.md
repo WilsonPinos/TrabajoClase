@@ -1,3 +1,9 @@
+# **************************************************************************
+# TRABAJO EN CLASE N6A REALIZADO POR:
+# WILSON PINOS
+# SEBASTIAN ONCE
+# **************************************************************************
+
 # Sistema de Facturación - API REST
 
 Este proyecto es un microservicio desarrollado en Spring Boot que proporciona una API RESTful para la gestión de un sistema de facturación.
